@@ -161,8 +161,6 @@ public class SparseArray {
         }
 
 
-
-
         for (int[] row : array) {
             for (int data : row) {
                 System.out.printf("%d\t", data);
